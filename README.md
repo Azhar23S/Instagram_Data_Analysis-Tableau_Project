@@ -6,7 +6,7 @@
 
 <b>About this Project:</b>
 
-I have explored the covid dataset which contains the Instagram quantitative datas with the details of
+I have explored the Instagram dataset which contains the Instagram quantitative datas with the details of
 - Impressions
 - From Home
 - From Hashtags
